@@ -1,5 +1,5 @@
-import SmartWatchSmallSvg from "../../../assets/icon/24px/Smart Watches.svg?react";
-import SmartWatchLargeSvg from "../../../assets/icon/48px/Smart Watches.svg?react";
+import SmartWatchSmallSvg from "../../../assets/icon/24px/SmartWatches.svg?react";
+import SmartWatchLargeSvg from "../../../assets/icon/48px/SmartWatches.svg?react";
 
 interface SmartWatchesIconProps {
   variant: "small" | "large";
